@@ -1,0 +1,16 @@
+{
+  "basepath": "/",
+  "url": "https://devfest.gdgpos.com",
+  "analytics": "UA-125449543-1",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyAY0_ElgMfO5OH57MUTx552qyit52Un6Kw",
+    "authDomain": "gdgpos-devfest19.firebaseapp.com",
+    "databaseURL": "https://gdgpos-devfest19.firebaseio.com",
+    "projectId": "gdgpos-devfest19",
+    "storageBucket": "gdgpos-devfest19.appspot.com",
+    "messagingSenderId": "458990161297",
+    "appId": "1:458990161297:web:4349dfc6b444514d"
+  },
+  "googleMapApiKey": "AIzaSyAafmk6U5Q2bjQ0XQvO_CVaDTLffMyaqP4"
+}
