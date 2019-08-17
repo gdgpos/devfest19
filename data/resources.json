@@ -100,32 +100,32 @@
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
+        "label": "See how it was in 2018",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "50"
+        "number": "100"
       },
       "days": {
         "label": "Hours",
-        "number": "5"
+        "number": "8"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "8"
+        "number": "10"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "1"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Our first ever DevFest is Free!",
+    "ticketsDetails": "All proceeds go to the support of future events.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
