@@ -1,5 +1,5 @@
 {
-  "title": "GDG DevFest Port-of-Spain 2018",
+  "title": "GDG DevFest Port-of-Spain 2019",
   "description": "Trinidad and Tobago's second DevFest",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, devfest, google, programming, android, chrome, developers, web, cloud",
@@ -179,7 +179,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#devFest19 highlights",
+    "title": "#devFest18 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
