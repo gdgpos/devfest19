@@ -170,6 +170,16 @@
     >
       <div class="hero-title highlight-font">{$ heroSettings.speakers.title $}</div>
       <p class="hero-description">{$ heroSettings.speakers.description $}</p>
+
+      <a href="https://forms.gle/vdmePw3qKZ8aehPw9" target="_blank">
+        <paper-button
+          on-tap=" _openPapersCall"
+          ga-on="click"
+          primary
+        >
+          Call For Speakers
+        </paper-button>
+      </a>
     </hero-block>
 
     <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>

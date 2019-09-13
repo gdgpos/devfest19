@@ -46,6 +46,17 @@
           ]
         },
         {
+          "startTime": "10:25",
+          "endTime": "10:40",
+          "sessions": [
+            {
+              "items": [
+                101
+              ]
+            }
+          ]
+        },
+        {
           "startTime": "5:00",
           "endTime": "6:00",
           "sessions": [
@@ -72,6 +83,19 @@
       "icon" : "party",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
       "title" : "Closing, Mix and Mingle"
+    },
+    "101": {
+      "complexity": "Beginner",
+      "description": "Coming Soon",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "coming_soon"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Coming Soon"
     }
   },
   "speakers": {
@@ -83,8 +107,8 @@
       "country": "...",
       "featured": true,
       "name": "Coming Soon",
-      "photo": "images/social-share.jpeg",
-      "photoUrl": "images/social-share.jpeg",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-71724.appspot.com/o/social-share.jpg?alt=media&token=113e5658-ab0e-4d04-a42b-d86a9660736e",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-71724.appspot.com/o/social-share.jpg?alt=media&token=113e5658-ab0e-4d04-a42b-d86a9660736e",
       "shortBio": "...",
       "socials": [],
       "title": "..."
@@ -99,16 +123,29 @@
   ],
   "tickets": [
     {
-      "available": false,
+      "available": true,
       "currency": "TTD$",
       "ends": "Oct 19th",
       "inDemand": true,
-      "info": "Our first 100 tickets",
-      "name": "General Admission",
-      "price": 25,
+      "info": "Supporting us would ensure the continuation of GDG Port-of-Spain",
+      "name": "Contribution Ticket",
+      "price": 20,
       "regular": true,
       "soldOut": false,
-      "starts": "October 1st",
+      "starts": "September 13th",
+      "url": "https://www.meetup.com/GDG-Port-of-Spain/events/264010494/"
+    },
+    {
+      "available": true,
+      "currency": "TTD$",
+      "ends": "Oct 19th",
+      "inDemand": true,
+      "info": "Participation is Free!",
+      "name": "General Admission",
+      "price": 0,
+      "regular": true,
+      "soldOut": false,
+      "starts": "September 13th",
       "url": "https://www.meetup.com/GDG-Port-of-Spain/events/264010494/"
     }
   ],

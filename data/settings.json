@@ -60,7 +60,7 @@
     "speakers": {
       "title": "Speakers",
       "metaDescription": "Hear from passionate developer experts from across the country, who are innovating and building the future of technology. Check back often as we add more speakers and partners.",
-      "description": "Hear from passionate developer experts from across the country, who are innovating and building the future of technology. Check back often as we add more speakers and partners.",
+      "description": "Hear from passionate developer experts from across the country, who are innovating and building the future of technology. Check back often as we add more speakers and partners. If you want to speak at this even please follow the link below.",
       "background": {
         "color": "#FFF"
       },
@@ -156,7 +156,11 @@
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/watch?v=hTJ_-MxHKMY"
+      },
+      {
+        "name":"LinkedIn",
+        "url":"https://www.linkedin.com/company/gdgpos/"
       }
     ],
     "share": [
