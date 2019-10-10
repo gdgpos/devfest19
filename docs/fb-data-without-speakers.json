@@ -32,11 +32,11 @@
   }],
   "schedule": {
     "2019-10-19": {
-      "dateReadable": "October 19th",
+      "dateReadable": "October 25th",
       "timeslots": [
         {
-          "startTime": "12:30",
-          "endTime": "12:45",
+          "startTime": "10:00",
+          "endTime": "10:20",
           "sessions": [
             {
               "items": [
@@ -46,8 +46,8 @@
           ]
         },
         {
-          "startTime": "12:45",
-          "endTime": "1:10",
+          "startTime": "10:30",
+          "endTime": "11:00",
           "sessions": [
             {
               "items": [
@@ -57,52 +57,8 @@
           ]
         },
         {
-          "startTime": "1:10",
-          "endTime": "1:35",
-          "sessions": [
-            {
-              "items": [
-                102
-              ]
-            }
-          ]
-        },
-        {
-          "startTime": "1:35",
-          "endTime": "2:00",
-          "sessions": [
-            {
-              "items": [
-                103
-              ]
-            }
-          ]
-        },
-        {
-          "startTime": "2:00",
-          "endTime": "2:25",
-          "sessions": [
-            {
-              "items": [
-                104
-              ]
-            }
-          ]
-        },
-        {
-          "startTime": "2:25",
-          "endTime": "2:50",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            }
-          ]
-        },
-        {
-          "startTime": "2:50",
-          "endTime": "3:50",
+          "startTime": "12:00",
+          "endTime": "1:00",
           "sessions": [
             {
               "items": [
@@ -112,19 +68,8 @@
           ]
         },
         {
-          "startTime": "3:50",
-          "endTime": "4:50",
-          "sessions": [
-            {
-              "items": [
-                106
-              ]
-            }
-          ]
-        },
-        {
-          "startTime": "4:50",
-          "endTime": "5:00",
+          "startTime": "4:00",
+          "endTime": "6:00",
           "sessions": [
             {
               "items": [
@@ -142,59 +87,19 @@
     }
   },
   "sessions": {
-    "101" :  {
+    "101": {
       "complexity": "Beginner",
-      "description": "Robotic Process Automation is slowly taking notice by businesses to supplement the existing workforce. This presentation will go over the basics of RPA and the tools required by developers to implement RPA in a business environment.",
+      "description": "Details TBA",
       "language": "English",
-      "Presentation": "https://drive.google.com/file/d/1BhHCDZGbDQHKrWTNCPu7LHIUfkhmddQ-/view?usp=sharing",
-      "speakers": ["obika_gellineau"],
-      "tags": ["RPA", "software robots", "uipath"],
-      "title": "RPA Development"
-    },
-    "102" :     {
-      "complexity": "Beginner",
-      "description": "Can I make a useful bot based on my tweets? I hope so. In this session I explore a strategy to help me derive more value from Twitter by performing analysis on my activity on twitter and making recommendations based on that activity.",
-      "language": "English",
-      "Presentation": "https://docs.google.com/presentation/d/1yG5VLfg9sTCt346JDG3mf5SDV_F1yKtSwuWLMhI-HAM/edit?usp=sharing",
-      "speakers": ["irwin_williams"],
-      "tags": ["chatbots"],
-      "title": "The TweetWhisperer"
-    },
-    "103" :     {
-      "complexity": "Beginner",
-      "description": "I will be talking about my 4 year career working remotely for four major US companies. The tools and strategies I have used to level up from a technical standpoint to be able to land these roles and how each and everyone can leverage the ever-changing distributed work arena.",
-      "language": "English",
-      "Presentation": "https://docs.google.com/presentation/d/1iQReG_Izzi5olOdon1HiRfU_-CAVtQZi6JfaEahZa1o/edit#slide=id.g5651d9bcbf_3_31",
-      "speakers": ["joel_dean"],
-      "tags": ["android"],
-      "title": "Remote : How Distributed Work Allowed Me To Level Up As a Mobile Engineer"
-    },
-    "104" :     {
-      "complexity": "Beginner",
-      "description": "Flutter is a new UI toolkit developed by Google and the open-source community. It can be used for writing mobile apps, websites and desktop applications.  In this session, we will look at the fundamentals of Flutter and learn the basics of building an app that can be deployed to multiple platforms. ",
-      "language": "English",
-      "Presentation": "https://www.icloud.com/keynote/0d6QG93h0vE6HdrETeDpvToNQ#Hello_Flutter",
-      "speakers": ["nevash_ramdial"],
-      "tags": ["Flutter, Android, iOS, Cross-Platform"],
-      "title": "Hello Flutter"
-    },
-    "105" :     {
-      "complexity": "Beginner",
-      "description": "Today, many developers are developing their applications using microservices instead of one monolithic application base. We are going to discuss what microservices are and the advantages and disadvantages of implementing them.",
-      "language": "English",
-      "Presentation": "https://docs.google.com/presentation/d/1x1vqVgJE3-vlf15roqUxy2Bm3DFB_t5XUnzAtFZpgq0/edit?usp=sharing",
-      "speakers": ["anil_ramnanan"],
-      "tags": ["google_cluus", "microservices", "serverless"],
-      "title": "The Microservice architecture"
-    },
-    "106" :     {
-      "complexity": "Beginner",
-      "description": "A panel discussion on the topic: of what the wants and needs of local sotfware developers. We want to highlight issues such as facilities, job opportunities, work environments, barriers to monetizing applications and general entrepreneurship.",
-      "language": "English",
-      "Presentation": "",
-      "speakers": [""],
-      "tags": ["Software Development", "entrepreneurship"],
-      "title": "Panel Discussion: Local Developers Wants and Needs"
+      "presentation": "",
+      "speakers": [
+        "coming_soon"
+      ],
+      "tags": [
+        "coming",
+        "soon"
+      ],
+      "title": "Schedule TBA 7th October 2019"
     },
     "109" : {
       "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
@@ -217,77 +122,19 @@
     }
   },
   "speakers": {
-    "obika_gellineau": {
-      "bio": "Several conferences. I presented at the last GDG DevFest",
-      "company": "N/A",
-      "country": "Trinidad & Tobago",
-      "name": "Obika Gellineau",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/obika.jpg?alt=media&token=99d1614c-bc2c-43f4-9b95-6f89bba53656",
-      "shortBio": "Security Professional with over 8 years of experience in IT, Cybersecurity, Forensics and Software Development.",
-      "socials": ["https://twitter.com/AntiPhishClub"],
-      "title": "Manager",
-      "featured": true,
-      "companyLogo":"",
-      "companyLogoURL":"",
-      "photo":""
-    },
-    "irwin_williams": {
-      "bio": "Spoke at last GDG. Talk at office (a lot)",
-      "company": "Teleios Systems",
-      "country": "Trinidad & Tobago",
-      "name": "Irwin Williams",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/irwin.png?alt=media&token=8964f571-2e76-440a-92cc-53fd8ec90358",
-      "shortBio": "Irwin has been a professional software developer for more than 16 years. He’s currently the Chief Software Engineer at Teleios Systems in Trinidad & Tobago.  He lectures from time to time at local universities, drawing from his experiences across life to weave technology lessons that are sometimes insightful and most times practical. Irwin is a member of the Global Communications and Technology Team of Congress WBN, a faith-based organization that spans the globe, where he provides insights in software architecture and development support on a diverse set of human-development initiatives. \nIrwin and his wife have two beautiful daughters who teach him every day that the journey is best when it is shared.",
-      "socials": ["https://twitter.com/iStarr"],
-      "title": "Chief Software Engineer",
-      "featured": true,
-      "companyLogo":"",
-      "companyLogoURL":"",
-      "photo":""
-    },
-    "joel_dean": {
-      "bio": "https://www.youtube.com/watch?v=auD9Vz3fGuM&t=2s\nhttps://www.youtube.com/watch?v=HRjERM3BXGY",
-      "company": "Automattic Inc (WordPress)",
-      "country": "Jamaica",
-      "name": "Joel Alexander Dean",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/joel.jpg?alt=media&token=c8d87e35-37da-45ce-aa13-8208bd5f5c39",
-      "shortBio": "A seasoned Software Architect and Device Magician, Joel Dean is Jamaica’s very own tech mogul in the making. At 26 years old, he boasts over 10 years of experience building applications for iPhones, Android phones and computers. Joel has built several tech startups and lead Android development efforts, providing solutions even in the most remote areas of the world. He has managed one of the world’s largest data collection platforms, deployed to more than 50 countries, in 40 languages, for more than 1.5 million users and is now a Software Engineer at Automattic, the owner of the popular blogging platform WordPress that has over 75 million active websites reach over a billion users per month. His expertise has reached Google, Facebook, Apple, Red Cross and the World Health Organization. \n\nJoel is a proud graduate of the Northern Caribbean University and the May Pen High and Preparatory Schools. 10 years ago, as he walked across this very stage, he left with a high school diploma and a determination to follow his dreams. His unique story of triumph over adversity, lead to his feature interview on the Jamaican talk show Profile, made popular by the late Ian Boyne. \n\nJoel Dean is an active member of the World Economic Forum’s Global Shapers, a community organization that brings the brightest minds together to solve the world’s toughest problems. He is also the lead organizer for the Google Developers Group Kingston. His passion for youth development has lead him to become a mentor to young men and women who are interested in pursuing a career in the space of technology. His initiative, “Code for Cause” will see him going into high schools across Central Jamaica to speak to how technology, when used to its fullest advantage, transforms the expectations and possibilities for our youth, our country and our future.\n\n",
-      "socials": ["https://github.com/jd-alexander","https://www.linkedin.com/in/jmrjoeldean/"],
-      "title": "Software Engineer",
-      "featured": true,
-      "companyLogo":"",
-      "companyLogoURL":"",
-      "photo":""
-    },
-    "nevash_ramdial": {
-      "bio": "Neevash is the lead editor of Flutter Community Medium, co-owner of the official Flutter Community Slack, author, and co-host of  #HumpDayQandA. \n\nHe's worked with Flutter experts from around the world, including the United State, United Kingdom, Germany, and Argentina. \n\nWhen he's not writing apps and breaking code, Nash enjoys swimming, aviation, and gaming.",
-      "company": "Freelancer",
-      "country": "Trinidad & Tobago",
-      "name": " Neevash Ramdial",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/nash.png?alt=media&token=1bc18c51-8d79-4907-99b4-bb39ea275539",
-      "shortBio": "Neevash is the lead editor of Flutter Community Medium, co-owner of the official Flutter Community Slack, author, and co-host of  #HumpDayQandA. \n\nHe's worked with Flutter experts from around the world, including the United State, United Kingdom, Germany, and Argentina. \n\nWhen he's not writing apps and breaking code, Nash enjoys swimming, aviation, and gaming.",
-      "socials": ["https://twitter.com/Nash0x7E2","https://github.com/Nash0x7e2","https://medium.com/@Nash0x7e2","https://www.linkedin.com/in/neevash-ramdial-614b31167/"],
-      "title": "Software Engineer",
-      "featured": true,
-      "companyLogo":"",
-      "companyLogoURL":"",
-    "photo":""
-    },
-    "anil_ramnanan": {
-      "bio": "A Developer's Guide to Machine Learning and Computer Vision (2018) https://www.youtube.com/watch?v=TnuPoAYBJbk\n\nMoodle Moot UK (2010) Moodle Integration with Google Apps & The Open Campus Student Management System –Kevin Ramsoobhag, Anil Ramnanan (co-author) http://moodlemootuk2010.org.uk/videos/\n\nMoodle Moot Canada (July 2011) Auto grouping Enrollment plugin for Moodle 2.0 – Anil Ramnanan, Reiza Haniff http://www.wiziq.com/online-class/593412-auto-grouping-enrollment-plugin-for-moodle-2-0\n\nMoodle Moot Online (August 2011) Auto grouping Enrollment plugin for Moodle 2.0 – Anil Ramnanan, Reiza Haniff http://www.wiziq.com/online-class/593412-auto-grouping-enrollment-plugin-for-moodle-2-0\n\nMoodle Moot Canada 2013 Moodle workshop for teaching EFL ||Moodle: Integrating external application with web services – Anil Ramnanan",
-      "company": "The University of the West Indies Open Campus",
-      "country": "Trinidad & Tobago",
-      "name": "Anil Ramnanan",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/anil.jpg?alt=media&token=c4b923f8-fe46-4061-9b08-1300a691d702",
-      "shortBio": "I'm a techie working with software and hardware in education, agriculture and other places.",
-      "socials": [
-        "https://twitter.com/anilramnanan"
-      ],
-      "title": "Learning Management Systems Administrator",
-      "featured": true,
+    "coming_soon": {
+      "bio": "Details Coming Soon",
+      "company": "...",
       "companyLogo": "",
-      "companyLogoURL": "",
-      "photo": ""
+      "companyLogoUrl": "",
+      "country": "TBA",
+      "featured": true,
+      "name": "Coming Soon",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest-71724.appspot.com/o/social-share.jpg?alt=media&token=113e5658-ab0e-4d04-a42b-d86a9660736e",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-71724.appspot.com/o/social-share.jpg?alt=media&token=113e5658-ab0e-4d04-a42b-d86a9660736e",
+      "shortBio": "Speakers to be announced on the 7th October",
+      "socials": [],
+      "title": "..."
     }
   },
   "team": [
@@ -518,7 +365,7 @@
           {
             "presentation": "",
             "tags": ["mfisheries", "mobile-apps", "fisheries"],
-              "title": "mFisheries Li'l Apps",
+            "title": "mFisheries Li'l Apps",
             "videoId": ""
           }
         ]
@@ -585,7 +432,7 @@
           {
             "presentation": "",
             "tags": ["nodejs", "web-services", "node", "Potoo"],
-              "title": "Acting Out On Node.js",
+            "title": "Acting Out On Node.js",
             "videoId": ""
           }
         ]

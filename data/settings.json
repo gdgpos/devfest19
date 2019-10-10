@@ -60,7 +60,7 @@
     "speakers": {
       "title": "Speakers",
       "metaDescription": "Hear from passionate developer experts from across the country, who are innovating and building the future of technology. Check back often as we add more speakers and partners.",
-      "description": "Hear from passionate developer experts from across the country, who are innovating and building the future of technology. Check back often as we add more speakers and partners. If you want to speak at this even please follow the link below.",
+      "description": "Hear from passionate developer experts from across the country, who are innovating and building the future of technology. Check back often as we add more speakers and partners. Speakers and Schedule will be announced by October 12th. If you want to speak at this even please follow the link below (Deadline October 5th).",
       "background": {
         "color": "#FFF"
       },
@@ -122,7 +122,7 @@
       "latitude": 10.659711,
       "longitude": -61.5106431
     },
-    "description": "Many thanks for UWI ROYTEC for facilitating us at such short notice."
+    "description": "UWI ROYTEC"
   },
   "mediaQueries": {
     "xs": {
