@@ -583,7 +583,7 @@
         "featured": true,
         "name": "Obika Gellineau",
         "photo": "images/obika.jpg",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-71724.appspot.com/o/onbika.jpg?alt=media&token=4248f8e5-2b63-4926-8d89-6780f1a079eb",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/obika.jpg?alt=media&token=99d1614c-bc2c-43f4-9b95-6f89bba53656",
         "shortBio": "",
         "sessions":{
           "2018":[
@@ -709,4 +709,3 @@
       }
     }
   }
-  

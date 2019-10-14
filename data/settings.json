@@ -108,21 +108,21 @@
     }
   },
   "location": {
-    "label": "UWI School Of Buisiness & Applied Studies Ltd. (ROYTEC)",
-    "name": "UWI School Of Buisiness & Applied Studies Ltd. (ROYTEC)",
+    "label": "University of Trinidad and Tobago John Donaldson Campus",
+    "name": "University of Trinidad and Tobago John Donaldson Campus",
     "city": "Port-of-Spain",
-    "short": "136-138 Henry Street, Port of Spain",
-    "address": "136-138 Henry Street, Port of Spain",
+    "short": "UTT John D. Campus Port of Spain",
+    "address": "University of Trinidad and Tobago John Donaldson Campus",
     "pointer": {
-      "latitude":  10.658397,
-      "longitude": -61.508880,
-      "zoom": 17
+      "latitude":  10.6579092,
+      "longitude": -61.5249165,
+      "zoom": 15
     },
     "mapCenter": {
-      "latitude": 10.659711,
-      "longitude": -61.5106431
+      "latitude":  10.6579092,
+      "longitude": -61.5249165
     },
-    "description": "UWI ROYTEC"
+    "description": "UTT John D"
   },
   "mediaQueries": {
     "xs": {

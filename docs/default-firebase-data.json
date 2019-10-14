@@ -20,7 +20,8 @@
     "test": {},
     "users": {}
   },
-  "partners" : [ {
+  "partners" : [
+    {
     "logos" : [ {
       "order" : 0,
       "logoUrl" : "../images/logos/gdg-lviv.svg",
@@ -29,7 +30,18 @@
     } ],
     "order" : 0,
     "title" : "Template Creator"
-  }],
+    },
+    {
+      "logos" : [ {
+        "order" : 0,
+        "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/utt.png?alt=media&token=913b3b96-b598-4bb5-9ca0-02ace698c3d8",
+        "name" : "University of Trinidad & Tobago",
+        "url" : "https://utt.edu.tt/"
+      } ],
+      "order" : 1,
+      "title" : "Venue Partner"
+    }
+  ],
   "schedule": {
     "2019-10-19": {
       "dateReadable": "October 19th",
@@ -192,9 +204,9 @@
       "description": "A panel discussion on the topic: of what the wants and needs of local sotfware developers. We want to highlight issues such as facilities, job opportunities, work environments, barriers to monetizing applications and general entrepreneurship.",
       "language": "English",
       "Presentation": "",
-      "speakers": [""],
-      "tags": ["Software Development", "entrepreneurship"],
-      "title": "Panel Discussion: Local Developers Wants and Needs"
+      "speakers": ["lasana_murray", "joel_dean", "nicholas_mendez", "irwin_williams"],
+      "tags": ["software_development", "entrepreneurship", "caribbean", "web", "android"],
+      "title": "Panel Discussion: Challenges of Local & Regional Developers"
     },
     "109" : {
       "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
@@ -224,7 +236,11 @@
       "name": "Obika Gellineau",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/obika.jpg?alt=media&token=99d1614c-bc2c-43f4-9b95-6f89bba53656",
       "shortBio": "Security Professional with over 8 years of experience in IT, Cybersecurity, Forensics and Software Development.",
-      "socials": ["https://twitter.com/AntiPhishClub"],
+      "socials": [{
+        "icon": "twitter",
+        "link": "https://twitter.com/AntiPhishClub",
+        "name": "Twitter"
+      }],
       "title": "Manager",
       "featured": true,
       "companyLogo":"",
@@ -238,7 +254,11 @@
       "name": "Irwin Williams",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/irwin.png?alt=media&token=8964f571-2e76-440a-92cc-53fd8ec90358",
       "shortBio": "Irwin has been a professional software developer for more than 16 years. He’s currently the Chief Software Engineer at Teleios Systems in Trinidad & Tobago.  He lectures from time to time at local universities, drawing from his experiences across life to weave technology lessons that are sometimes insightful and most times practical. Irwin is a member of the Global Communications and Technology Team of Congress WBN, a faith-based organization that spans the globe, where he provides insights in software architecture and development support on a diverse set of human-development initiatives. \nIrwin and his wife have two beautiful daughters who teach him every day that the journey is best when it is shared.",
-      "socials": ["https://twitter.com/iStarr"],
+      "socials": [{
+        "icon": "twitter",
+        "link": "https://twitter.com/iStarr",
+        "name": "Twitter"
+      }],
       "title": "Chief Software Engineer",
       "featured": true,
       "companyLogo":"",
@@ -252,7 +272,18 @@
       "name": "Joel Alexander Dean",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/joel.jpg?alt=media&token=c8d87e35-37da-45ce-aa13-8208bd5f5c39",
       "shortBio": "A seasoned Software Architect and Device Magician, Joel Dean is Jamaica’s very own tech mogul in the making. At 26 years old, he boasts over 10 years of experience building applications for iPhones, Android phones and computers. Joel has built several tech startups and lead Android development efforts, providing solutions even in the most remote areas of the world. He has managed one of the world’s largest data collection platforms, deployed to more than 50 countries, in 40 languages, for more than 1.5 million users and is now a Software Engineer at Automattic, the owner of the popular blogging platform WordPress that has over 75 million active websites reach over a billion users per month. His expertise has reached Google, Facebook, Apple, Red Cross and the World Health Organization. \n\nJoel is a proud graduate of the Northern Caribbean University and the May Pen High and Preparatory Schools. 10 years ago, as he walked across this very stage, he left with a high school diploma and a determination to follow his dreams. His unique story of triumph over adversity, lead to his feature interview on the Jamaican talk show Profile, made popular by the late Ian Boyne. \n\nJoel Dean is an active member of the World Economic Forum’s Global Shapers, a community organization that brings the brightest minds together to solve the world’s toughest problems. He is also the lead organizer for the Google Developers Group Kingston. His passion for youth development has lead him to become a mentor to young men and women who are interested in pursuing a career in the space of technology. His initiative, “Code for Cause” will see him going into high schools across Central Jamaica to speak to how technology, when used to its fullest advantage, transforms the expectations and possibilities for our youth, our country and our future.\n\n",
-      "socials": ["https://github.com/jd-alexander","https://www.linkedin.com/in/jmrjoeldean/"],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://www.linkedin.com/in/jmrjoeldean/",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/jd-alexander",
+          "name": "Github"
+        }
+      ],
       "title": "Software Engineer",
       "featured": true,
       "companyLogo":"",
@@ -266,7 +297,28 @@
       "name": " Neevash Ramdial",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/nash.png?alt=media&token=1bc18c51-8d79-4907-99b4-bb39ea275539",
       "shortBio": "Neevash is the lead editor of Flutter Community Medium, co-owner of the official Flutter Community Slack, author, and co-host of  #HumpDayQandA. \n\nHe's worked with Flutter experts from around the world, including the United State, United Kingdom, Germany, and Argentina. \n\nWhen he's not writing apps and breaking code, Nash enjoys swimming, aviation, and gaming.",
-      "socials": ["https://twitter.com/Nash0x7E2","https://github.com/Nash0x7e2","https://medium.com/@Nash0x7e2","https://www.linkedin.com/in/neevash-ramdial-614b31167/"],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link":  "https://twitter.com/Nash0x7E2",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/neevash-ramdial-614b31167/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@Nash0x7e2",
+          "name": "Website"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Nash0x7e2",
+          "name": "Github"
+        }
+      ],
       "title": "Software Engineer",
       "featured": true,
       "companyLogo":"",
@@ -281,13 +333,72 @@
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/anil.jpg?alt=media&token=c4b923f8-fe46-4061-9b08-1300a691d702",
       "shortBio": "I'm a techie working with software and hardware in education, agriculture and other places.",
       "socials": [
-        "https://twitter.com/anilramnanan"
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/anilramnanan",
+          "name": "Twitter"
+        }
       ],
       "title": "Learning Management Systems Administrator",
       "featured": true,
       "companyLogo": "",
       "companyLogoURL": "",
       "photo": ""
+    },
+    "nicholas_mendez": {
+      "bio": "Nicholas Mendez is an instructor at UWI St. Augustine, a free lance developer and an Organizer of GDG Port-of-Spain. He has seen success in regional coding competitions such as WSIS Hack Against Hunger, Teleios Codejam, Developing Caribbean Code Sprint and Bmobile Innovation Challenge.",
+      "company": "UWI St. Augustine",
+      "country": "Trinidad and Tobago",
+      "name": "Nicholas Mendez",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/nick.png?alt=media&token=c1102f1b-5e32-4588-b98e-5e85700a422c",
+      "shortBio": "Nicholas is a freelance Web Developer and University Instructor",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/snickdx",
+          "name": "Github"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/snickdx",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/snickdx",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://nicholasmendez.dev",
+          "name": "Website"
+        }
+      ],
+      "title": "Instructor",
+      "featured": true,
+      "companyLogo": "",
+      "companyLogoURL": "",
+      "photo": ""
+    },
+    "lasana_murray": {
+      "bio": "I am a software engineer with 5 years professional experience and much more as a hobbyist.  I started the company Quenk Technologies (QT) in 2013 originally with the aim to do a better job than SAP but these days we focus more on solutions that help local business manage their information.",
+      "company": "Quenk Technologies Limited",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Trinidad and Tobago",
+      "featured": true,
+      "name": "Lasana Murray",
+      "photo": "images/lasana.png",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-71724.appspot.com/o/lasana.png?alt=media&token=a3dfd4a9-9919-4ca5-920c-9014f684c532",
+      "shortBio": "I am a software engineer with 5 years professional experience and much more as a hobbyist. I started the company Quenk Technologies (QT) in 2013.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/metasansana",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Founder"
     }
   },
   "team": [
