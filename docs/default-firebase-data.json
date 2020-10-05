@@ -201,10 +201,10 @@
     },
     "106" :     {
       "complexity": "Beginner",
-      "description": "A panel discussion on the topic: of what the wants and needs of local sotfware developers. We want to highlight issues such as facilities, job opportunities, work environments, barriers to monetizing applications and general entrepreneurship.",
+      "description": "A panel discussion on the topic: the challenges of local software development. We want to highlight issues such as facilities, job opportunities, work environments, barriers to monetizing applications and the state of tech entrepreneurship.",
       "language": "English",
       "Presentation": "",
-      "speakers": ["lasana_murray", "joel_dean", "nicholas_mendez", "irwin_williams"],
+      "speakers": ["lasana_murray", "joel_dean", "nicholas_mendez", "akeem_philbert", "aggrey_marshall"],
       "tags": ["software_development", "entrepreneurship", "caribbean", "web", "android"],
       "title": "Panel Discussion: Challenges of Local & Regional Developers"
     },
@@ -399,6 +399,44 @@
         }
       ],
       "title": "Founder"
+    },
+    "akeem_philbert": {
+      "bio": "",
+      "company": "Wepala",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Trinidad and Tobago",
+      "featured": true,
+      "name": "Akeem Philbert",
+      "photo": "images/akeem.jpeg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-71724.appspot.com/o/akeem.jpeg?alt=media&token=a80a2230-1afd-4e3c-b4a1-fa764b526b43",
+      "shortBio": "Akeem is an entrepreneur, developer, family man and founder of Wepala. Akeem spent over a decade working on projects for brands like 2kgames, Umbro, Virgin",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/kanundrum",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/aphilbert/",
+          "name": "LinkedIn"
+        }
+      ]
+    },
+    "aggrey_marshall": {
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Guyana",
+      "featured": true,
+      "name": "Aggrey Marshall",
+      "photo": "",
+      "photoUrl": "",
+      "shortBio": "",
+      "socials": [
+      ]
     }
   },
   "team": [
